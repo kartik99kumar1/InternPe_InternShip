@@ -1,8 +1,3 @@
-/*
-TASK - 01   (InternPe)
-(InternShip Code - IPDCP681)
-Name - KARTIK KUMAR
-*/
 #include<iostream>
 #include<cstdlib>
 #include<ctime>
