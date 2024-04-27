@@ -1,7 +1,4 @@
-/*
-Name: Kartik Kumar
-Task 1 : Number Guessing Game.
-*/
+
 
 
 #include<iostream>
